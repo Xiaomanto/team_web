@@ -1,0 +1,6 @@
+.left{
+    max-width: 30%;
+    border: 1px solid black;
+    height: 100vh;
+    padding: 0 5px;
+}

@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0;
+    border: 2px solid plum;
+    border-radius: 10px;
+    background-color: rgb(231, 221, 240);
+}
+
+.card:hover{
+    background-color: rgb(213, 189, 234);
+    cursor: pointer;
+}
